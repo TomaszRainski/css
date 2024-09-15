@@ -1,0 +1,32 @@
+p#pogrubienie_rainski{
+    font-size: 36px;
+    color: #895DCA;
+}
+
+p#pochylona_rainski{
+    font-size: 41pt;
+    color: #EDC166
+}
+
+p#index_gorny_rainski{
+    font-size: 1,6cm;
+    color:#9D8F16
+}
+
+p#index_dolny_rainski{
+    font-size: 2,5cm;
+    color:#39F3DE
+}
+
+p#mono_rainski{
+    font-size: 46px;
+    color:#1DDF66
+}
+
+p#powiekszenie_rainski{
+    color:#573F98
+}
+
+p#pomniejszenie_rainski{
+    color:#BBA334
+}
